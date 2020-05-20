@@ -1,6 +1,6 @@
 .row-header{
     margin:0px auto;
-    padding:0px;
+    padding:0px auto;
 }
 
 .row-content {
@@ -23,7 +23,7 @@
     color:floralwhite;
 }
 
-address{
+.address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
